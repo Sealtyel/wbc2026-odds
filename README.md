@@ -14,7 +14,9 @@ After Italy upset USA 8-6, all three top teams finished 3-1 if Mexico beats Ital
 ### Italy vs Mexico (March 11)
 - **Mexico is home team** → if Mexico wins in 9 inn: Italy records 24 outs, Mexico records 27 outs
 
-## Matrix
+## 9-Inning Game Matrix 
+
+![9 Inning Matrix](src/assets/matrix-screenshot.png)
 
 - **Rows** = Mexico score
 - **Columns** = Italy score
